@@ -20,19 +20,21 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+
+LuminousMind
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+inteligência artificial que transforma sonhos em imagens, criando mundos visuais únicos a partir do poder da criatividade digital. Com sua mente luminosa, ela gera artes, cenários e designs impressionantes, fundindo algoritmos avançados e sensibilidade artística. É a fusão perfeita entre tecnologia e imaginação, iluminando o futuro da criação visual e desbloqueando possibilidades infinitas para artistas e criadores.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Mandei alguns comandos em NLP
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+
+https://chatgpt.com/s/m_689c156da9548191b4394d0e595d66f7
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
